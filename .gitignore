@@ -1,0 +1,4 @@
+env/
+.vscode/
+
+flask-role-required.code-workspace
