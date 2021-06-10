@@ -1,4 +1,7 @@
 env/
 .vscode/
+__pycache__/
 
 flask-role-required.code-workspace
+.flake8
+app.db
